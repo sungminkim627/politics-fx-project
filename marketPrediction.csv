@@ -1,0 +1,77 @@
+Topic ID,Topic Name,Prediction,Last Trade Price,Year,Month,Day,Time
+6867,Which party wins the presidency in 2024?,Republican,0.56,2022,11,5,19:30
+6867,Which party wins the presidency in 2024?,Democratic,0.45,2022,11,5,19:30
+6874,Who will control the Senate after 2022?,Republican,0.74,2022,11,5,19:30
+6874,Who will control the Senate after 2022?,Democratic,0.31,2022,11,5,19:30
+6892,Which party will win the House in 2022?,Republican,0.91,2022,11,5,19:30
+6892,Which party will win the House in 2022?,Democratic,0.11,2022,11,5,19:30
+7016,Which party will win the PA Senate race?,Republican,0.61,2022,11,5,19:30
+7016,Which party will win the PA Senate race?,Democratic,0.43,2022,11,5,19:30
+7017,Which party will win the NC Senate race?,Republican,0.88,2022,11,5,19:30
+7017,Which party will win the NC Senate race?,Democratic,0.11,2022,11,5,19:30
+7024,Which party will win the FL Senate race?,Republican,0.96,2022,11,5,19:30
+7024,Which party will win the FL Senate race?,Democratic,0.04,2022,11,5,19:30
+7085,Which party will win the OH Senate race?,Republican,0.9,2022,11,5,19:30
+7085,Which party will win the OH Senate race?,Democratic,0.14,2022,11,5,19:30
+7107,Which party will win the GA Senate race?,Republican,0.64,2022,11,5,19:30
+7107,Which party will win the GA Senate race?,Democratic,0.42,2022,11,5,19:30
+7112,Which party will win the AZ Senate race?,Republican,0.55,2022,11,5,19:30
+7112,Which party will win the AZ Senate race?,Democratic,0.49,2022,11,5,19:30
+7130,Which party will win the NH Senate race?,Democratic,0.63,2022,11,5,19:30
+7130,Which party will win the NH Senate race?,Republican,0.38,2022,11,5,19:30
+7131,Which party will win the NV Senate race?,Republican,0.77,2022,11,5,19:30
+7131,Which party will win the NV Senate race?,Democratic,0.25,2022,11,5,19:30
+7132,Which party will win the WI Senate race?,Republican,0.88,2022,11,5,19:30
+7132,Which party will win the WI Senate race?,Democratic,0.14,2022,11,5,19:30
+7176,Which party will win the AK Senate race?,Republican,0.98,2022,11,5,19:30
+7176,Which party will win the AK Senate race?,Democratic,0.02,2022,11,5,19:30
+7204,Which party will win the MO Senate race?,Republican,0.98,2022,11,5,19:30
+7204,Which party will win the MO Senate race?,Democratic,0.02,2022,11,5,19:30
+7208,Which party will win the IA Senate race?,Republican,0.97,2022,11,5,19:30
+7208,Which party will win the IA Senate race?,Democratic,0.04,2022,11,5,19:30
+7377,Which party will win MI governor's race?,Democratic,0.73,2022,11,5,19:30
+7377,Which party will win MI governor's race?,Republican,0.28,2022,11,5,19:30
+7378,Which party will win WI governor's race?,Republican,0.69,2022,11,5,19:30
+7378,Which party will win WI governor's race?,Democratic,0.35,2022,11,5,19:30
+7380,Which party will win PA governor's race?,Democratic,0.89,2022,11,5,19:30
+7380,Which party will win PA governor's race?,Republican,0.14,2022,11,5,19:30
+7383,Which party will win AZ governor's race?,Republican,0.82,2022,11,5,19:30
+7383,Which party will win AZ governor's race?,Democratic,0.2,2022,11,5,19:30
+7384,Which party will win KS governor's race?,Democratic,0.52,2022,11,5,19:30
+7384,Which party will win KS governor's race?,Republican,0.5,2022,11,5,19:30
+7386,Which party will win GA governor's race?,Republican,0.94,2022,11,5,19:30
+7386,Which party will win GA governor's race?,Democratic,0.07,2022,11,5,19:30
+7387,Which party will win MD governor's race?,Democratic,0.95,2022,11,5,19:30
+7387,Which party will win MD governor's race?,Republican,0.05,2022,11,5,19:30
+7391,Which party will win NV governor's race?,Republican,0.82,2022,11,5,19:30
+7391,Which party will win NV governor's race?,Democratic,0.17,2022,11,5,19:30
+7394,Which party will win ME governor's race?,Democratic,0.82,2022,11,5,19:30
+7394,Which party will win ME governor's race?,Republican,0.2,2022,11,5,19:30
+7532,Which party will win the UT Senate race?,Republican,0.94,2022,11,5,19:30
+7532,Which party will win the UT Senate race?,Democratic,0.01,2022,11,5,19:30
+7548,Which party will win the CO Senate race?,Democratic,0.88,2022,11,5,19:30
+7548,Which party will win the CO Senate race?,Republican,0.15,2022,11,5,19:30
+7576,Which party will win MN governor's race?,Democratic,0.84,2022,11,5,19:30
+7576,Which party will win MN governor's race?,Republican,0.16,2022,11,5,19:30
+7590,Which party will win OR governor's race?,Democratic,0.52,2022,11,5,19:30
+7590,Which party will win OR governor's race?,Republican,0.49,2022,11,5,19:30
+7595,Which party will win CT governor's race?,Democratic,0.93,2022,11,5,19:30
+7595,Which party will win CT governor's race?,Republican,0.08,2022,11,5,19:30
+7609,Which party will win the VT Senate race?,Democratic,0.97,2022,11,5,19:30
+7609,Which party will win the VT Senate race?,Republican,0.03,2022,11,5,19:30
+7652,Which party will win NM governor's race?,Democratic,0.74,2022,11,5,19:30
+7652,Which party will win NM governor's race?,Republican,0.26,2022,11,5,19:30
+7659,Which party will win IL governor's race?,Democratic,0.94,2022,11,5,19:30
+7659,Which party will win IL governor's race?,Republican,0.06,2022,11,5,19:30
+7704,Which party will win OH governor's race?,Republican,0.97,2022,11,5,19:30
+7704,Which party will win OH governor's race?,Democratic,0.03,2022,11,5,19:30
+7749,Which party will win the OR Senate race?,Democratic,0.96,2022,11,5,19:30
+7749,Which party will win the OR Senate race?,Republican,0.05,2022,11,5,19:30
+7769,Which party will win the WA Senate race?,Democratic,0.86,2022,11,5,19:30
+7769,Which party will win the WA Senate race?,Republican,0.15,2022,11,5,19:30
+7837,Which party will win NY governor's race?,Democratic,0.81,2022,11,5,19:30
+7837,Which party will win NY governor's race?,Republican,0.23,2022,11,5,19:30
+7883,Which party will win CO governor's race?,Democratic,0.96,2022,11,5,19:30
+7883,Which party will win CO governor's race?,Republican,0.04,2022,11,5,19:30
+7884,Which party will win the IL Senate race?,Democratic,0.96,2022,11,5,19:30
+7884,Which party will win the IL Senate race?,Republican,0.05,2022,11,5,19:30
